@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+#content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffeb3b;
+}
+
+a {
+    color: #81d4fa;
+}
+
+a:hover {
+    color: #29b6f6;
+}
+
+pre, code {
+    background-color: #333;
+    color: #b3e5fc;
+}
+
+blockquote {
+    border-left: 4px solid #ffeb3b;
+    background-color: #1e1e1e;
+    padding: 0 20px;
+    color: #ccc;
+}
