@@ -1,4 +1,24 @@
-### 1918
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events List</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="content"></div>
+
+    <script>
+        var mdContent = `### 1918
 - **January 11**: Robert Huston starts treatment of Roger Carlyle.
 - **February 22**: Roger Carlyle goes to Permuda for 3 weeks.
 - **March 11**: Roger Carlyle returns from Permuda.
@@ -49,4 +69,14 @@
 ### 1925
 - **January 3**: Elias sends a telegram to arrange a meeting in New York on the 15th.
 - **January 15**: Elias attends Anthony Cowles' lecture, signs books, and is murdered around 8pm.
-- **January 16**: News reports on the discovery of Elias’s dead body in hotel Chelsea, New York.
+- **January 16**: News reports on the discovery of Elias’s dead body in hotel Chelsea, New York.`;
+
+        var converter = new showdown.Converter(),
+            html = converter.makeHtml(mdContent);
+
+        document.getElementById('content').innerHTML = html;
+    </script>
+
+</body>
+
+</html>
