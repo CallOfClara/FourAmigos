@@ -1,0 +1,52 @@
+### 1918
+- **January 11**: Robert Huston starts treatment of Roger Carlyle.
+- **February 22**: Roger Carlyle goes to Permuda for 3 weeks.
+- **March 11**: Roger Carlyle returns from Permuda.
+- **April 8**: Robert Huston tries hypnosis on Roger Carlyle for treatment.
+- **April 15**: Under hypnosis, Roger Carlyle mentions "Nyarlathotep".
+- **April 18**: Huston and Carlyle visit club Hot-Cha, meet a young "Negro woman" claiming to be an African Priestess from the Kikuyu tribe(?).
+- **June 28**: Huston claims the African priestess has influenced Carlyle significantly.
+- **July 4**: Huston attends Carlyle's 4th of July festivities.
+- **July 5**: Carlyle considers going to Egypt, influenced by "Merwoo".
+- **July 12**: Carlyle receives funding request for an Egypt expedition, further encouraged by "Merewoo".
+- **July 19**: Sir Aubrey Penhew proposes to lead the Egypt expedition; "Merwaroo" approves. Huston is invited but finds the plan extravagant.
+- **July 26**: Huston dreams about the "N-figure" mentioned by Carlyle.
+- **August 3**: Huston stops Carlyle’s treatments due to ethical concerns.
+- **September 28**: Huston notes that "M'Weru" dislikes him after meeting Carlyle again.
+
+### 1919
+- **March 3**: Warren Bessant's letter from Cairo to Carlyle about Faraz Najjar's "singular curious".
+- **April 5**: Carlyle Expedition leaves New York for England.
+- **April 14**: Expedition arrives in London.
+- **April 15-27**: Expedition visits Penhew Foundation for "extensive study".
+- **April 28**: Expedition departs London for Cairo.
+- **May 15**: Expedition arrives in Cairo.
+- **July 4**: Expedition sails from Cairo to East Africa for rest.
+- **July 31**: Expedition arrives in Mombasa, Kenya; departs for Nairobi and hunting.
+- **August 3**: Expedition leaves Nairobi for the Great Rift Valley.
+- **August 15 - October 15**: Silence - no news from the Carlyle Expedition.
+- **October 15**: Fears arise for the safety of Penhew, Carlyle, and 4 other Americans.
+
+### 1920
+- **March 11**: Erica Carlyle arrives in Mombasa to search for her brother.
+- **March 12**: Erica and Mrs. Victoria Post depart for Nairobi.
+- **May 24**: Massacre site found in Aberdare Forest; Carlyle, Penhew, Masters, and Huston presumed dead.
+- **June 19**: Execution of 5 African tribesmen convicted for the massacre.
+
+### 1922
+- "Nails" Nelson claims to have seen Jack Brady alive in Hong Kong.
+
+### 1924
+- **February 28**: The Scoop publishes an article on artist Miles Shipley's horrific paintings.
+- **May 13**: The Scoop reports on murders in Derwent Valley.
+- **July 3**: The Scoop covers ongoing Egyptian murders.
+- **August 8**: Jackson Elias writes notes on "African death cult" and communicates with Jonah Kensington.
+- **September 22**: Kensington receives Elias' notes.
+- **October**: Last known Harlem murder before Elias’s murder; Hilton Adams is a suspect.
+- **November 7**: Harvard University Library reports a missing book to Elias.
+- **December 16**: Elias’ rambling notes in Hotel Metropole, London, hint at Carlyle Expedition members being alive, and mysterious entities and events.
+
+### 1925
+- **January 3**: Elias sends a telegram to arrange a meeting in New York on the 15th.
+- **January 15**: Elias attends Anthony Cowles' lecture, signs books, and is murdered around 8pm.
+- **January 16**: News reports on the discovery of Elias’s dead body in hotel Chelsea, New York.
