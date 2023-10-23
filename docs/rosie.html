@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Amigos</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="content"></div>
+
+    <script>
+        var mdContent = `
+
+### Roger Carlyle profile:
+
+- No police record
+- No military service
+- Wealthy, however ignored/negleccted by his father, craves attention
+- Heir to the Carlyle estate and fortune
+- Abner Vane Carell was the first Carlyle to arrive in America, Virginia, 1714
+- Abner's son Ephraim moved to New England and adopted the name Carlyle, invested in lumber and textiles, which came to prominence around the American Civil War, which netted them a huge fortune (war profiteering)
+- Roger Carlyle graduated from Grotton, but was allowed a gentleman's resignation from Harvard, Yale, Princeton, Miskatonic, Cornell and USC over three years.
+
+### Erica Carlyle profile:
+
+- Sister of Roger Carlyle
+- Socialite and business head of the Carlyle Estate
+- Went searching for his brother in 1920. 
+- Credited Kikuyu tribesmen for massacre discovery.
+
+### Dr. Robert Huston profile: 
+
+- Psychology expert for Carlyle Expedition
+- No police record, no military service
+- Graduated with honours from Johns Hopkins
+- Went to Vienna, learned under Jung and Freud
+- Was one of the first Americans, who started learning the contraversial study of the mind
+- Treated Roger Carlyle for some time, developed a personal relationship with him
+
+### Sir Aubrey Penhew profile:
+ 
+- Egyptologist for Carlyle Expedition
+- Assistant leader to Roger Carlyle
+- A young Sir Aubrey Penhew was caught "pinching" a policemans helmet in 1898 while at Oxford Univeristy
+- Graduated with honours from Oxford
+- Performed many Egyptian excavations
+- Worked 1901-1902 in Yorkshire Gardens
+- Served in the British Army as a Colonel 1915-1916, retired due to an injury
+- Credited with many finds in Egypt, especially in Dahshur
+- Started the Penhew Foundation, which has helped many a poor scholars
+- Penhew family traces all the way back to William the Conquerors times, where Sir Boris Penhew was given some lands in Western England, near Wales's border
+
+### Jack Brady profile:
+
+- Security consultant for Carlyle Expedition
+- Police record: assault, brawl, petty theft, loitering, gambling, mopery, public drunkness, acquitted murder charge
+- Army service: Marine Sergeant, earned a Bronze Star while serving in France
+
+### Hypatia Masters profile:
+
+- "Friend of Carlyles"
+- Photographer and archivist for Carlyle Expedition
+- No police records, no public service
+- Studied at the Swiss and French academies
+- Has held many photograph showings, which have been quite popular
+- Miss Masters and Roger Carlyle have dated numerous times with no outcame, have remained friends throughout
+- No records to show why she was invited to the Carlyle Expedition, perhaps a friendly comfort to Roger
+
+### Desert Photo handout:
+
+- The photo in question was made by Arthur MacWhirr and was given to Crowley by Robert Mackenzie, a mining engineer and executor of the MacWhirr estate. Rosie knows that Crowles has a MacWhirr's diary but  it is back home in Sidney. 
+
+### Edward Gaviganiga Arutelu:
+
+- Robert Carlyle oli mingisuguselt Aafrika naiselt saanud infot Egiptuse ajaloo tumedamate seikade kohta. Sir Aubrey näitas selle osas kõva huvi välja.
+- Selle iidse ajastu kohta käisid jutud, et Nile Valley juhiks oli mingisugune võlur.
+- Gavigan nentis, et see info oli lõppkokkuvõttes pettus. Sama Egpituses see naine oli ära põgenenud 3500 inglise naelaga.
+- Carlyle oli raha osas olnud ükskõikne, aga juttude järgi oli olnud Aafrika naise põgenimise tõttu endast väljas. Äkki armuke?
+- Hypatia Masters oli mures Carlyle ning teiste expeditioni liikmete tervise pärast. Andis põhjuseks kuumuse, aga Gavigan kuulis, et tegelikult ta muretses ka Roberti mentaalse tervise pärast, sest Egiptus oli talle suure pettuse valmistanud aafrika naise tõttu. Hypatia pakkus välja, et nad veedaksid aega relatiivselt jahedas Kenya mägisalas ning pakkus välja, et nad saaksid tegeleda Aafrika eluslooduse pildistamisega.
+    - Kahjuks nad sinna minnes sattusid valesse piirkonda ning, seetõttu, maksid ka oma eluga.
+- Penhew üldiselt dokumenteerib oma expeditioneid, aga enamik Carlyle expeditioni recordeid selle intsidendi tõttu hävinesid või jäid kadunuks. Sir Aubrey tahtis need endaga kaasa võtta, et neid täiendada ja nende kallal töötada.
+    - Kus iganes on Aubrey, seal on ka tema töö siiani kadunud.
+- Mõned artifaktid saadeti küll, sest mingid kaevamistööd ikkagi tehti. Sir Aubrey oli huvitatud Dahshuri kompleksist ja püramiidist ja esemed olid sealt pärit.
+- Lisaks oli neil secondary site Giza püramiidide kandis. Mõned artifactid Briti muuseumis, osad siin Penhew Private Collectionis.
+- Enamus esemeid siiani katalogiseerimise, aga Gavigan näitas exhibition hallis kilde pottidest, ilma ninata kujukesi, relieefe kassidest, meestest ning ehitud naistest.
+    - Rosie külastas hiljem ka Penhew Foundationi arhiive - tulemuse saame teada next week! Aga tegi seal Josephi palvel ülevaate Carlyle expeditionist.
+- Rosie wonderib, kes on "I.B" Robert Hustoni treatment notesides?
+
+### First reading of Selections de Livere D'Ivoni
+
+Tegemist on prantsuse keelse commenteryga Ladina keelsele tekstile, mis tegi selle teose uurimise üllatavalt raskeks, aga seega ka huvitavaks challengeks Rosalitale. 
+Need kommentaarid on kirjutanud Gaspar du Nord ja sa oled üpris kindel, et see raamat on kirjutatud umbes 13. sajandil. 
+See raamat on käsitsi kirjutatud (lisab keerukusele) ning sisu tundus segane. Raamatu ümbriseks oli erodeerunud vasikanahk. 
+
+Sisu poolest oli väga keeruline midagi aru saada. Siin seal nägid sõnu või nimetusi, mis kordusid. Sulle tundub, et mainiti tihti nimetust Tsathoggua ning sinu üllatuseks ka Atlantis, mida tead olevat mütoloogiline koht. Raamatus oli mitmeid joonistusi ja kirjeldusi, märke ning kritseldusi, mille tähendus oli segane (eriti, sest raamat kahekeelne). Sisu oli väga palju. See raamat tundub mainivat mitmeid needusi, rituaale ning üldiselt ennekuulmatuid oskusi, aga sul oleks vaja sellega lähemalt veelkord tutvuda, et nendest midagi aru saada. Sa arvad, et igasugune selle raamatu uurimine võtab nädalaid või isegi kuid, et jõuda päris sõnumini. 
+
+`;
+
+        var converter = new showdown.Converter(),
+            html = converter.makeHtml(mdContent);
+
+        document.getElementById('content').innerHTML = html;
+    </script>
+
+</body>
+
+</html>
